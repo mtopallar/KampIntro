@@ -47,6 +47,7 @@ namespace DonguOdevi
             {
                 Console.WriteLine("Ürün adı : "+ urunler[sayac].UrunAdi+" Ürün görseli : "+urunler[sayac].GorselAdresi+" İndirimsiz Fiyat : "+urunler[sayac].EskiFiyat+" Güncel Fiyat : "+urunler[sayac].Fiyat);
                 sayac++;
+
             }
         }
     }
